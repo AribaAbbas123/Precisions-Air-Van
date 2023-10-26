@@ -74,7 +74,7 @@
     padding: 0px 140px;
 }
 .home-banner-bg{
-    background-image:linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/assests/Images/home-banner.png);
+    background-image:linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(Images/home-banner.png);
     background-size: cover;
     
    
@@ -120,7 +120,7 @@
     border-radius: 0px 12px 12px 0px;
 }
 .home-banner-2{
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url(/assests/Images/home-banner-2.png);
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url(Images/home-banner-2.png);
     background-size: cover;
 
 }
@@ -157,7 +157,7 @@
    /* margin: auto; */
 }
 .circle-bg-img{
-    background-image: url(/assests/Images/circle-gray.png);
+    background-image: url(Images/circle-gray.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -220,11 +220,11 @@
     color: black !important;
 }
 .about-banner-bg{
-    background-image:linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/assests/Images/about-banner.png);
+    background-image:linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(Images/about-banner.png);
     background-size: cover;
 }
 .about-banner-2{
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)),url(/assests/Images/about-full.png);
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)),url(Images/about-full.png);
     background-size: cover;
 }
 .border-shadow{
@@ -247,7 +247,7 @@
 
 /* our Services  */
 .services-banner-bg{
-    background-image:linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/assests/Images/services-banner.png);
+    background-image:linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(Images/services-banner.png);
     background-size: cover;
 }
 .service-4-img{
@@ -263,7 +263,7 @@
 
 /* Offers  */
 .offers-banner-bg{
-    background-image:linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/assests/Images/offers-banner.png);
+    background-image:linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(Images/offers-banner.png);
     background-size: cover;
 }
 /* Offers  */
