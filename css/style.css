@@ -74,7 +74,7 @@
     padding: 0px 140px;
 }
 .home-banner-bg{
-    background-image:linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/Images/home-banner.png);
+    background-image:linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../Images/about-banner.png);
     background-size: cover;
     
    
